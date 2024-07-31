@@ -80,3 +80,7 @@ img{
 .first{
     margin-top: 2rem
 }
+
+.last{
+ margin-bottom: 0;
+}
